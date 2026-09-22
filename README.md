@@ -1,17 +1,17 @@
 <!-- HEADER BANNER -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Madhav%20Raj&fontSize=80&animation=fadeIn&fontAlignY=42" alt="Header Banner" />
-</div>
+</div> -->
 
 <div align="center">
     <!-- PROFILE VIEWS COUNTER -->
     <img src="https://komarev.com/ghpvc/?username=Madhav064&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <br/>
     <br/>
-    <!-- DYNAMIC TYPING SUBTITLE -->
-    <a href="https://git.io/typing-svg" target="_blank">
+    <!-- <!-- DYNAMIC TYPING SUBTITLE -->
+    <!-- <a href="https://git.io/typing-svg" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=🚀+Transforming+Ideas+into+Code;👨‍🎓+Graduating+in+2027;💻+Full+Stack+%7C+AI%2FML;✨+Let's+build+something+amazing!;Hire+Me+!!" alt="Typing SVG" />
-    </a>
+    <!-- </a> --> 
 </div>
 
 ---

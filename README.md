@@ -5,7 +5,7 @@
 
 <div align="center">
     <!-- PROFILE VIEWS COUNTER -->
-    <img src="https://komarev.com/ghpvc/?username=Madhav064&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=Madhav064&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <br/>
     <br/>
     <!-- <!-- DYNAMIC TYPING SUBTITLE -->
